@@ -17,6 +17,8 @@ public class TestBase {
 	
 	public String empID="23"; 
 	
+	
+	
 	public Logger logger;
 	
 	@BeforeClass
